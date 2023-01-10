@@ -1,3 +1,6 @@
+[![Cloudwise](https://user-images.githubusercontent.com/95954371/211463617-b61a7953-a536-4050-aca4-0928fcd6548d.png)](https://cloudwise.vercel.app)
+
+
 This is a weather app that shows you the current weather as well as the weather forecast for the upcoming 5 days. The app is built using ReactJS and NextJS, and makes use of the [OpenWeatherMap API](https://openweathermap.org/api) for fetching weather data.
 
 ## Features
